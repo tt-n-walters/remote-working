@@ -4,3 +4,7 @@ def Im_tired(x,y):
 
 def say_hello():
     print("Hello!")
+
+
+def integrate():
+    print("Just use matlab")
