@@ -1,2 +1,3 @@
-print("Hello world")
-print("goodbye")
+def Im_tired(x,y):
+    return x*y
+    
