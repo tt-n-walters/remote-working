@@ -1,3 +1,3 @@
-### Working with others
-
+Working with others
+===================
 Isn't git great
